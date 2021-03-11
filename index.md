@@ -1,6 +1,6 @@
-> [/kutya](/kutya) (a /kutya.md fájl alapján)
+> [./kutya](./kutya) (a /kutya.md fájl alapján)
 >
-> [/pimpedli](/pimpedli) (a /pimpedli/readme.md fájl alapján)
+> [./pimpedli](./pimpedli) (a /pimpedli/readme.md fájl alapján)
 
 
 ## Welcome to GitHub Pages
