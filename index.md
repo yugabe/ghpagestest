@@ -1,3 +1,8 @@
+> [/kutya](/kutya) (a /kutya.md fájl alapján)
+>
+> [/pimpedli](/pimpedli) (a /pimpedli/readme.md fájl alapján)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/yugabe/ghpagestest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
